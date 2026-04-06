@@ -1,4 +1,4 @@
-# 🔬 PathAgent — Predictive Health Risk Agent
+# 🔬 PathoAgent — Predictive Health Risk Agent
 
 > *Your lab report knows your future. Powered 100% by free, local AI.*
 
