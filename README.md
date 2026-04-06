@@ -8,7 +8,7 @@ PathAgent analyzes blood test reports by reasoning over **combinations of lab ma
 
 | Component | Tool | Cost |
 |---|---|---|
-| LLM | Llama 3.1 8B via Ollama | FREE |
+| LLM | Llama Phi3 via Ollama | FREE |
 | Embeddings | sentence-transformers/all-MiniLM-L6-v2 | FREE |
 | Vector DB | ChromaDB (local) | FREE |
 | PDF Parsing | PyMuPDF | FREE |
